@@ -1,1 +1,1 @@
-# GWU-ProjectNumberTwo-WP
+# Cryptocurrency Algomodel
